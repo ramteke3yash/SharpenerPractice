@@ -1,6 +1,6 @@
 .product-form {
-  width: 15rem;
-  max-width: 80%;
+  width: 20rem;
+  max-width: 90%;
   margin: auto;
 }
 
@@ -15,12 +15,13 @@
 .form-control input {
   border: 1px solid orange;
   font: inherit;
-  border-radius: 2px;
+  border-radius: 3px;
 }
 
 button {
   font: inherit;
   border: 1px solid brown;
+  border-radius: 3px;
   color: brown;
   background: white;
   cursor: pointer;
